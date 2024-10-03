@@ -1,0 +1,13 @@
+name: crystal-jukebox
+version: 0.1.0
+
+authors:
+  - Martin Verzilli <martin.verzilli@gmail.com>
+
+targets:
+  crystal-jukebox:
+    main: src/crystal-jukebox.cr
+
+crystal: '>= 1.13.3'
+
+license: MIT
