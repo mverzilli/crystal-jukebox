@@ -1,18 +1,14 @@
 # crystal-jukebox
 
-TODO: Write a description here
-
-## Installation
-
-TODO: Write installation instructions here
+This is a toy project to introduce newcomers to the Crystal Language.
 
 ## Usage
 
-TODO: Write usage instructions here
+Assuming you already installed Crystal, you can just run this with `crystal src/crystal_jukebox.cr`
 
 ## Development
 
-TODO: Write development instructions here
+Run tests with `crystal spec`
 
 ## Contributing
 
